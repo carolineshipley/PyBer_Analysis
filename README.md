@@ -8,7 +8,7 @@ The purpose of this project is to provide PyBer insight on driver, rides, fares,
 
 ## Results
 After analyzing the data from PyBer as shown on the table below, we can conclude the following for each city type:
-![Table]()
+![Table](https://github.com/carolineshipley/PyBer_Analysis/blob/main/Resources/Table.PNG)
 ### Urban
 Urban cities have the highest number of Drivers, Rides, and Total Fares. The Average Fare per Ride and Average Fare per Driver are the lowest when compared to Suburban and Rural cities.
 
@@ -20,7 +20,7 @@ Suburban cities are right in between Urban and Rural on all parameters analyzed.
 
 ### Urban, Rural and Suburban
 When analyzing all 3 types of cities over a period of 4 months, we can observe that the Total Fare peak was on the end of February and there's a lot of oscillation throughout March.
-![Graph]()        
+![Graph](https://github.com/carolineshipley/PyBer_Analysis/blob/main/Resources/Graph.PNG)        
 
 ## Summary
 The size of the city is directly proportional to the Total Rides, Total Drivers and Total Fares, while indirectly proportional to Average Fare per Ride and Average Fare per Driver. With that said, the company can look into limiting the amount of drivers in urban cities and increasing the amount of drivers in rural areas to achieve profit goals.
