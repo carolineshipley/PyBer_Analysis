@@ -4,7 +4,7 @@
 This project consists in analyzing PyBer ride-share data using pandas, numpy and matplotlib libraries.
 
 ### Purpose
-The purpose of this project is to provide PyBer insight on Driver, Rides and Fares by City Type.
+The purpose of this project is to provide PyBer insight on Drivers, Rides and Fares by City Type.
 
 ## Results
 After analyzing the data from PyBer as shown on the table below, we can conclude the following for each city type:
