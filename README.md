@@ -13,7 +13,7 @@ After analyzing the data from PyBer as shown on the table below, we can conclude
 Urban cities have the highest number of Drivers, Rides, and Total Fares. The Average Fare per Ride and Average Fare per Driver are the lowest when compared to Suburban and Rural cities.
 
 ### Rural
-Rural cities have the lowest number of Drivers, Rides and Total Fares. The Average Fare per Ride and Average Fare per Driver is the highest when compared with Urban and Suburban cities.
+Rural cities have the lowest number of Drivers, Rides and Total Fares. The Average Fare per Ride and Average Fare per Driver are the highest when compared with Urban and Suburban cities.
 
 ### Suburban
 Suburban cities are right in between Urban and Rural on all parameters analyzed.
